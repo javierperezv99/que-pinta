@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://javierperezv99.github.io/pagina-oficial-de-que-pinta-hecha-con-cue-/sitemap.xml
+Sitemap: https://javierperezv99.github.io/que-pinta/sitemap.xml
